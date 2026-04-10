@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tarun  
+# Hi , I'm Tarun  
 
 ### 🚀 Infrastructure Engineer | DevOps Enthusiast | Creative Developer  
 
